@@ -13,14 +13,24 @@ border-collapse: collapse;
 
 text-align: center;
 
-}
+font-size: x-large;
 
-table, th {
-font-style: italic;
 }
 
 .center {
 
     margin: auto;
 
+}
+
+img {
+
+    width: auto;
+    height: auto;
+
+}
+
+.thick {
+
+font-style: bolder;
 }
