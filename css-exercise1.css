@@ -1,0 +1,25 @@
+div {
+
+border: 3px dotted black;
+border-collapse: collapse;
+
+margin: 5px;
+
+}
+
+#third > p {
+
+display: none;
+
+}
+
+h1 {
+
+    visibility: hidden;
+}
+
+#second * {
+
+visibility: hidden;
+
+} 
