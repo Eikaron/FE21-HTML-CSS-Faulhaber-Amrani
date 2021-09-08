@@ -16,7 +16,11 @@ text-align: center;
 }
 
 table, th {
-
 font-style:  bold;
+}
 
+.center {
+
+    margin: auto;
+´
 }
