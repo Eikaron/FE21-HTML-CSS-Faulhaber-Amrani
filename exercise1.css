@@ -1,0 +1,19 @@
+body {
+
+background-color: rgb(98, 98, 168);
+
+
+}
+
+table,th, td {
+
+background-color: rgb(228, 193, 105);
+border: 2px solid black;
+
+}
+
+table, th {
+
+font-style:  bold;
+
+}
